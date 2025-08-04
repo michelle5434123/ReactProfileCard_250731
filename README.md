@@ -1,8 +1,8 @@
 # 👩🏻‍💼 ReactProfileCard_0731
 
 This is a simple React-based profile card, showcasing my short professional roles and links to her 
-- portfolio(design)
-- knowledge hub(research), and
+- Portfolio(design)
+- Knowledge hub(research), and
 - GitHub(engineer - HERE).
 
 ![image](https://github.com/user-attachments/assets/4ebbbf74-9956-4f96-bb42-aef7542b4067)
