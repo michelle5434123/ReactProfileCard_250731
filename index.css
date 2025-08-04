@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #27292c;
+    color: white;
+    margin: 0;
+
+
+}
+
+h1 {
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.header{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4); /* <- This adds the shadow */
+    position: sticky;  /* stick to top when scrolling */
+    top: 0;            /* stick exactly at the top edge */
+    z-index: 1000;     /* stay above other elements */
+    width: 100%;
+}
+ul {
+    padding-left: 30px;
+    list-style: none;
+}
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.main-list li{
+    padding-bottom: 5px;
+}
+.nav-list li, a {
+    padding: 10px;
+    justify-content: space-between;
+    font-size: 1.1rem;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.avatar{
+    padding: 20px;
+    width: 55px;
+}
+
+.footer{
+    background: black;
+    padding: 20px;
+    width: 100%;
+    margin: 0px;
+}
