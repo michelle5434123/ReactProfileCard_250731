@@ -48,10 +48,6 @@ If you’re using Vite (recommended for this setup):
 ```bash
 npm run dev
 ```
-This will start the server, usually at:
-```bash
-http://localhost:5173
-```
-Open that link in your browser.
+This will start the server and Open the link in your browser.
 
 
